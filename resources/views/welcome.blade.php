@@ -790,7 +790,7 @@ p {
                 It's a creative outlet that constantly challenges me to see things from different perspectives and grow as an artist.</p>
           </div>
           <div class="project-img">
-            <img src="../public/assets/img/myskill1.jpg" alt="img">
+            <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/440928466_26254953317425243_7986479171139495095_n.jpg?stp=dst-jpg_s206x206&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEdiulWJGztCBeQ0KfHmEYgKpIt4JFgRt8qki3gkWBG3-u8uzi1aNjfm99bG2LL6NwUYhuB7A_p6OpzP88zfYGx&_nc_ohc=uQS9GwYJnsAQ7kNvgGO93Iv&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QE10QABP9iFMmJNGWKP7jjIiK2hnJP69RYLxc6qroP5ZA&oe=66716AF4" alt="img">
           </div>
         </div>
         <div class="project-item">
@@ -800,7 +800,7 @@ p {
                 through code and creating solutions that have a real impact on people's lives.</p>
           </div>
           <div class="project-img">
-            <img src="../public/assets/img/myskill2.jpg" alt="img">
+            <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/438051517_3289767677999856_7838153977435892327_n.jpg?stp=dst-jpg_p206x206&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeE_O_xlYYL90nQg783L744xesV3JA8_yDJ6xXckDz_IMr9dDythlNOu7yPaMDgZhg_aVu0wKmgP6ZoUzLarwl42&_nc_ohc=8k1A6cKuEmkQ7kNvgGl77fA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFd6iJKrflU9QJ454taOG8a5yWR3W7-idQVVZF9aySqDA&oe=66718981" alt="img">
           </div>
         </div>
       </div>
@@ -813,7 +813,8 @@ p {
     <div class="about container">
       <div class="col-left">
         <div class="about-img">
-          <img src=""C:\xampp\htdocs\LanuzaPortfolio\public\assets\img\rr.jpg"" alt="img">
+          <img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/445387497_953556359565772_5058636993366009183_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEhkxUKOBqOP9eLJlXFmmjx0uzBM50xBcbS7MEznTEFxjUCOcmmv8z2Wz0_NFLx-kmuuZNaaTMOEiZdGhqVKl5s&_nc_ohc=IanUMua81SkQ7kNvgF9KJvw&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGOiuBYIFvFjxlWDtFF8NqhQl5kj2Rde2gx2ehNw0xk0g&oe=667187F1" alt="img">
+          
         </div>
       </div>
       <div class="col-right">
