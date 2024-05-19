@@ -813,7 +813,7 @@ p {
     <div class="about container">
       <div class="col-left">
         <div class="about-img">
-          <img src="../public/assets/img/rr.jpg" alt="img">
+          <img src=""C:\xampp\htdocs\LanuzaPortfolio\public\assets\img\rr.jpg"" alt="img">
         </div>
       </div>
       <div class="col-right">
